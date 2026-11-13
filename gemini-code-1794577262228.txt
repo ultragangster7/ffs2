@@ -1,0 +1,8 @@
+fox-off/
+├── package.json
+├── capacitor.config.json
+└── www/
+    ├── index.html       <-- Your Fox Off HTML file from earlier
+    ├── manifest.json    <-- File 1 below
+    ├── sw.js            <-- File 2 below
+    └── privacy.html     <-- File 5 below (upload this anywhere for your store link)

@@ -1,0 +1,19 @@
+{
+  "name": "fox-off",
+  "version": "1.0.0",
+  "description": "Fox Off - One-click web content purifier",
+  "scripts": {
+    "setup:android": "npx cap add android && npx cap sync",
+    "setup:ios": "npx cap add ios && npx cap sync",
+    "open:android": "npx cap open android",
+    "open:ios": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/ios": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "appId": "com.foxoff.app",
+  "appName": "Fox Off",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always"
+  }
+}
